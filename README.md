@@ -3,28 +3,20 @@
 Senior System Administrator at **Zitel**, based in Tehran, Iran.
 
 Infrastructure specialist focused on designing, deploying, and operating
-highly-available Linux, database, and container infrastructure — from
-bare-metal Debian servers through PostgreSQL high-availability clusters,
-Zabbix monitoring at scale, object storage, and Kubernetes.
+highly-available Linux, database, and container infrastructure across
+Oracle Linux, RHEL, CentOS, Debian, and Ubuntu — spanning PostgreSQL
+high-availability clusters, Zabbix monitoring at scale, object storage,
+Kubernetes, and infrastructure automation.
 
 Currently open to new opportunities.
 
 ---
 
-## Experience
-
-- **Senior System Administrator** — Zitel *(2025–present)*
-- **Lead System Administrator** — Dadehpardaz *(2021–2024)* — infrastructure
-  for MCI's main portal, market research platform, number-portability
-  system, and BTS site-management system: server architecture, deployment,
-  load balancing (HAProxy/Nginx), security hardening, CI/CD
-- **Network Administrator** — Dadehpardaz *(2021)*
-- **Network Operations Specialist** — Sepanta *(2020–2021)*
-- **Network Technician** — Emarat Service *(2015–2020)*
-
 ## Core stack
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/-RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -67,4 +59,5 @@ Documentation from real production work, written up as step-by-step guides:
 
 ---
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/ali-moradi-9b612a209/).
+Reach out on [LinkedIn](https://www.linkedin.com/in/ali-moradi-9b612a209/)
+or by [email](mailto:alimoradimllm99@gmail.com).
