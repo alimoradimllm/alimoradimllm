@@ -8,8 +8,6 @@ Oracle Linux, RHEL, CentOS, Debian, and Ubuntu — spanning PostgreSQL
 high-availability clusters, Zabbix monitoring at scale, object storage,
 Kubernetes, and infrastructure automation.
 
-Currently open to new opportunities.
-
 ---
 
 ## Core stack
