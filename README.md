@@ -1,6 +1,6 @@
 # Ali Moradi
 
-Senior System Administrator at **Zitel**, based in Tehran, Iran.
+Senior System Administrator
 
 Infrastructure specialist focused on designing, deploying, and operating
 highly-available Linux, database, and container infrastructure across
